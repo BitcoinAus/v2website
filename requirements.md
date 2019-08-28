@@ -1,30 +1,29 @@
 “because if you can’t even clean up your own room, who the hell are you to give advice to the world?” Jordan Peterson 
  
 It is incumbent upon Blockchain Australia to showcase what and how blockchain technologies can be used.  The website needs to encapsulate and reflect our core values.  If we don’t adopt this technology, then no one will. 
-It must be seamless, ubiquitous and beautiful. 
  
-## Goals 
-A fresh, responsive and mobile friendly website that demonstrates our capabilities to the community while providing a ubiquitous experience for our members and board alike. 
-Website experience encourages member engagement and functions as a gateway to blockchain-based services and crytpo exchanges. 
-Architecture is modular, vendor agnostic and is integrates seamlessly with other services and APIs. 
-
-Create one source of truth. 
-Promote members services and offerings. 
-Reduce third-party dependencies. 
+## Goals
+1. Ambitous
+3. Attract and retrain new members.
+4. Promote the technology through example, not talk.  Show case what the technology can achieve and demonstrates our capabilities.
+5. Seamless, ubiquitous and beautiful.
+6. Colaborative with the community
+7. Future proof through modern, modular, responsive technologies and be mobile friendly.  
 
 ## How 
 These goals can be achieved by 
 
-1. Using modern programming languages such as React, Angular or Websocket.
-2. Adopting bootstrap v4 and then applying a ‘theme’ the site. 
-3. Supporting the use of open source tech. 
-Separating the front-end and back-end using a headless/API driven approach. 
-Using letsencrypt.org for certificates and IPFS to cache content. 
-Using Smart Contracts for business logic for members. 
-Taking payments via crypto using existing Bitcoin Brisbane tech. 
-Use the DRY (Don’t Repeat Yourself) principle. 
-Providing ‘once-only' KYC to our members for use across all BA exchanges, driving participation by members and exchanges. 
-Providing Blockchain notary services. 
+1. Create and use open source frameworks.
+2. Using modern programming languages such as React, Angular or Websocket.
+3. Adopting bootstrap v4 and then applying a ‘theme’ the site. 
+4. Supporting the use of open source tech. 
+5. Separating the front-end and back-end using a headless/API driven approach. 
+6. Using letsencrypt.org for certificates and IPFS to cache content. 
+7. Using Smart Contracts for business logic for members. 
+8.  Taking payments via crypto using existing Bitcoin Brisbane tech. 
+9. Use the DRY (Don’t Repeat Yourself) principle. 
+10. Providing ‘once-only' KYC to our members for use across all BA exchanges, driving participation by members and exchanges. 
+11. Providing Blockchain notary services. 
  
 ## Non-functional requirements 
 
