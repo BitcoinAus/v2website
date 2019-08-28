@@ -3,9 +3,9 @@
 It is incumbent upon Blockchain Australia to showcase what and how blockchain technologies can be used.  The website needs to encapsulate and reflect our core values.  If we don’t adopt this technology, then no one will. 
  
 ## Goals
-1. Ambitous
+1. Ambitous.
 3. Attract and retrain new members.
-4. Promote the technology through example, not talk.  Show case what the technology can achieve and demonstrates our capabilities.
+4. Promote the technology through example not talk.  Show case what the technology can achieve and demonstrates our capabilities.
 5. Seamless, ubiquitous and beautiful.
 6. Colaborative with the community
 7. Future proof through modern, modular, responsive technologies and be mobile friendly.  
