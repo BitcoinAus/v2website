@@ -4,15 +4,18 @@ It is incumbent upon Blockchain Australia to showcase what and how blockchain te
  
 ## Goals
 1. Ambitous.
-3. Attract and retrain new members.
-4. Promote the technology through example not talk.  Show case what the technology can achieve and demonstrates our capabilities.
-5. Seamless, ubiquitous and beautiful.
-6. Colaborative with the community
-7. Future proof through modern, modular, responsive technologies and be mobile friendly.  
+2. Attract and retrain new members.
+3. Promote the technology through example not talk.  Show case what the technology can achieve and demonstrates our capabilities.
+4. Seamless, ubiquitous and beautiful.
+5. Colaborative with the community
+6. Future proof through modern, modular, responsive technologies and be mobile friendly.  
 
 ## How 
-These goals can be achieved by 
+These goals can be achieved by:
 
+### Goal 1
+
+### Goal 2
 1. Create and use open source frameworks.
 2. Using modern programming languages such as React, Angular or Websocket.
 3. Adopting bootstrap v4 and then applying a ‘theme’ the site. 
