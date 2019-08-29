@@ -1,6 +1,6 @@
 ## Goals
 1. Ambitous.
-2. Attract and retrain new members.
+2. Attract new members and retrain existing members.
 3. Promote the technology through example not talk.  Show case what the technology can achieve and demonstrates our capabilities.
 4. Seamless, ubiquitous and beautiful.
 5. Colaborative with the community
@@ -12,6 +12,9 @@ These goals can be achieved by:
 ### Goal 1
 
 ### Goal 2
+1. Have a great checkout experience.
+2. Have membership based content.
+
 1. Create and use open source frameworks.
 2. Using modern programming languages such as React, Angular or Websocket.
 3. Adopting bootstrap v4 and then applying a ‘theme’ the site. 
